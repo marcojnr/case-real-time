@@ -1,0 +1,4 @@
+azure_storage==0.37.0
+kaggle==1.5.13
+pandas==1.5.3
+pyspark==4.0.1
